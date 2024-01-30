@@ -3,7 +3,7 @@ import 'package:practice_project/components/my_button.dart';
 import 'package:practice_project/components/my_test_field.dart';
 import 'package:practice_project/components/square_tile.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:practice_project/services/aut_services.dart';
+
 
 class HomeScreen extends StatefulWidget {
   final Function()? onTap;
